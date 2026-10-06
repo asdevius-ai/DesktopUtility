@@ -1,0 +1,16 @@
+{
+  "name": "DesktopUtility",
+  "short_name": "DesktopUtility",
+  "description": "Use your iPad as a second monitor or trackpad for your Windows PC.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#050506",
+  "background_color": "#050506",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ],
+  "categories": ["utilities", "productivity"]
+}
